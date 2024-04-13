@@ -1,0 +1,14 @@
+@import '~normalize.css';
+@import '~@blueprintjs/core/lib/css/blueprint.css';
+@import '~@blueprintjs/icons/lib/css/blueprint-icons.css';
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 20px; */
+  background-color: azure;
+  height: 100vh;
+  margin-bottom: 30px;
+  padding-bottom: 80px;
+}
